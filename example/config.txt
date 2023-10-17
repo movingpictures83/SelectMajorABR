@@ -1,0 +1,2 @@
+Prefix plugins/SelectMajorABR/example/
+Plugin SelectMajorABR inputfile parameters.txt outputfile .

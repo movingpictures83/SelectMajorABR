@@ -1,0 +1,4 @@
+amr	ptr_amr.csv
+major	PTR_species_filtered_metadata_major.csv
+threshold	20
+method	top_present
